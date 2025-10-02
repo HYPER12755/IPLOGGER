@@ -11,9 +11,9 @@
 5) - Go to the repository's settings and find the the category called "pages">
                            
 6) - Click on the button under "Build and deployment" and select the option "Deploy from branch,and under branch select main and directory to /root                              
-7) - After some time passes, when you check back your brand new website should be onlin
-                                     
-                                         - ## STAR THIS REPO, DAMN!## -
+7) - After some time passes, when you check back your brand new website should be online
+
+                                ## STAR THIS REPO, DAMN!##
 
 
 
