@@ -14,3 +14,10 @@
 7) - After some time passes, when you check back your brand new website should be onlin
                                      
                                          - ## STAR THIS REPO, DAMN!## -
+
+
+
+## NEED HELP?
+
+HERE U CAN FIND MY ALL OF SOCIAL MEDIA ACCOUNTS 
+https://hyper12755.github.io/MY-SOCIAL-MEDIA-ACCOUNTS/
